@@ -99,5 +99,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[Riva Tikoo]**
+**[Sanika Billava]**
+**[Shreya Swaminathan]**
+**[Tiya Shah]** 
 Made with ❤️ and crypto.
